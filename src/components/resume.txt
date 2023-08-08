@@ -1,0 +1,86 @@
+ANSHARAH QASIM
+403.992.0039 • ansharahmir@gmail.com
+PROFILE
+Solution-driven software engineer with a passion for web application development and the drive to tackle web design challenges to achieve lasting impacts on user experience. Proficient in creating user interfaces and integrating back-end and front-end aspects of applications while ensuring maximum stability. I love the challenge of finding simple solutions to complex problems.
+PROFESSIONAL EXPERIENCE 
+
+Sales Specialist                                                                          		Apr 2022 – Dec 2022 
+7x Powered Inc, Calgary, Alberta
+
+•	Follow-up with existing customers to offer additional products or services 
+•	Build long-term relationship with customers and assess their needs in order to present them tailored solution which increased sales by 10%
+•	Maintain comprehensive knowledge of  products and services to establish and develop positive business and customer relationships 
+•	Reached out to potential customers through cold calling; 75+ cold calls daily
+•	Coordinated sales with the team members and exceeded sales target and outcome by 15% on regular basis
+•	Engage with customers using unique selling skills, handle all customer relation issues assisting them in accordance with company policies
+	Praised by management for demonstrating excellent customer  service and professionalism when dealing with clients 
+
+Computer Science Developer                                                                      Mar 2020 - Nov 2021 
+Pilot Model High School, Islamabad, Pakistan 
+
+•	Created the technology plan and computer science curriculum for the entire school
+•	Evaluated and recorded various aspects of students’ progress and reported to parents as needed and required 
+•	Created an interactive classroom atmosphere to boost student engagement and facilitate learning; encouraged students to persevere with challenging tasks 
+•	Taught Computer Technology Course including HTML, computer programming, graphics, management of computers and Information Technology 
+•	Presented lectures, conducted workshops and participated in activities to improve the educational program; initiated a student-run computer support centre, equipping students with technical skills
+	Recognized by higher management exceptional interpersonal skills and exercising sound and professional judgment when dealing with students and staff   
+
+PHP/Laravel Developer			                 		            Sept 2019 - Dec 2019   
+Carbonic IT Solutions, Islamabad, Pakistan 
+
+•	Performed technical analysis to select efficient adjustments based on company specifics
+•	Launched an internal order management system utilizing primarily PHP and MySQL to introduce a more scalable and reliable solution that allowed deadline compliance    
+•	Created project status reports, managed the team and resolved day-to-day issues
+•	Reduced data entry redundancy from the old website by 75% 
+•	Developed a brand new administration panel for purchasing agent business, which increased the customer service by 90% and improved the efficiency of operating by over 25%.
+•	Participated in 100+ weekly code reviews to ensure code quality and receive mentoring from senior developers
+•	Wrote structured, tested, readable, and maintainable code
+	Technical Stack:  HTML5,CSS3, JavaScript,JQuery,MySQL,Bootstrap3,GitHub,Visual Studio Code 
+
+
+Junior Full Stack Developer 						Oct 2018 - July 2019 
+Mega IT Solutions, Rawalpindi, Pakistan 
+ 
+•	Developed, enhanced and maintained websites using HTML, CSS, and JavaScript 
+•	Designed and implemented online interactive sales tool used to calculate amount of savings to customers by utilizing our sources 
+•	Developed a virtual disaster resource guide that was distributed to one thousand individuals 
+•	Reduced costs by 30% by developing a database to track individuals affected by natural disaster 
+•	Created mock designs and wireframes for landing pages for 5 new products concepts
+
+	Technical Stack :  HTML,CSS, JavaScript,Bootstrap3,MySQL
+EDUCATION 
+
+Bachelor of Science - Software Development                                             Oct 2015 - Mar 2019 
+FUUAST Federal Urdu University of Arts, Sciences & Technology
+Islamabad, Pakistan   
+
+
+
+
+
+
+
+
+
+
+
+
+SKILLS 
+
+•	Web development projects 
+•	Website optimization 
+•	Programming Languages: HTML5,CSS3, Bootstrap, JavaScript, jQuery, PHP
+•	VCS: Git
+•	IDE: Visual Code
+•	MVC: Laravel
+•	Lampp/Xampp
+ 
+
+CERTIFICATES 
+
+Penetration Testing/CompTIA Pentest+			                                           July 2020
+No Expiration
+Islamabad, Pakistan 
+
+Android Programming                                                                                July 2017 - Aug 2017 
+Air University, Islamabad, Pakistan 
