@@ -1,19 +1,24 @@
-:root{
+:root {
   /* for light theme */
-  --body_background:white;
-  --body_color:black;
+  --body_background: white;
+  --body_color: black;
 }
+
+
 /* for dark theme */
-[data-theme='dark']{
-  --body_background:black;
-  --body_color:white;
+[data-theme='dark'] {
+  --body_background: black;
+  --body_color: white;
 }
+
+
 /* *{
   transition: all 0.2s ease-in-out;
 } */
 body {
   /* background-color: var(--body_background);
   color: var(--body_color); */
+
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

@@ -1,6 +1,11 @@
-.App {
+/* .App {
   text-align: center;
+} */
+
+.color {
+  background-color: rgb(181, 232, 239);
 }
+
 /* .dark-mode{
   background-color: white;
   color:black
@@ -14,20 +19,51 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.App-header{
+
+.App-header {
   background-color: black;
   color: white;
 }
-ul, div {
+
+ul,
+div {
   background-color: var(--body_background);
   color: var(--body_color);
-  
+
+}
+
+.text-transform {
+  text-transform: capitalize;
+}
+
+.work-experience-item {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+
+.title-conatiner {
+  display: flex;
+  grid-gap: 8px;
+}
+
+.title {
+  grid-column: 1;
+}
+
+.location {
+  grid-column: 2;
+}
+
+.work-experience-item span {
+  margin-left: 10px;
 }
 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

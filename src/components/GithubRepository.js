@@ -32,26 +32,33 @@ export default function GithubRepository() {
     // debugger;
   }, []);
   return (
-    <div className="row mt-3">
-      <div className="col-md mb-5">
+    <div className="color mt-3">
+      <div className="col-md-12 mb-4">
         <div className="card">
-          <ul className="card-body">
-            <h2 className="card-title">My GitHub Repositories</h2>
-            <ul className="list-unstyled">
-              <li>
-                <ul>
-                  {githubData.map((repo) => (
-                    <li key={repo.id}>
-                      <a href={repo.html_url} target="_blank">
-                        {repo.name}
-                      </a>
-                      <p>Languages Used: {repo.language}</p>
-                    </li>
-                  ))}
-                </ul>
-              </li>
+          <div className="card-body mb-3">
+            <h2 className="card-title text-uppercase">
+              My GitHub Repositories
+            </h2>
+            <ul className="row mt-3 mb-2">
+              {githubData.map((repo) => (
+                <li key={repo.id} className="col-md-5">
+                  <a
+                    href={repo.html_url}
+                    className="text-capitalize"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {repo.name}
+                  </a>
+                  {repo.language ? (
+                    <p>Languages Used: {repo.language}</p>
+                  ) : (
+                    <p> </p>
+                  )}
+                </li>
+              ))}
             </ul>
-          </ul>
+          </div>
         </div>
       </div>
     </div>

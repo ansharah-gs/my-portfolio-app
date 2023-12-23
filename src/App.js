@@ -4,44 +4,32 @@ import WorkExperience from "./components/WorkExperience";
 import EducationCard from "./components/EducationCard";
 import GithubRepository from "./components/GithubRepository";
 import TechnologySummaryCard from "./components/TechnologySummaryCard";
-// import DarkMode from "./components/DarkMode";
-
-// import { useContext } from'react';
-//  import { ThemeContext, ThemeProvider } from './components/ThemeContext';
-// import { Helmet } from 'react-helmet';
+import Certification from "./components/Certifications";
+import TechnicalSkills from "./components/TechnicalSkills";
+import PersonalSkills from "./components/PersonalSkills";
 
 const App = () => {
-  const myStyle = {
-    width: "150px",
-    height: "150px",
-  };
-
-  // const { theme, toggleTheme } = useContext(ThemeContext);
-  // console.log(ThemeContext);
   return (
     <>
-      {/* <DarkMode> */}
-      {/* <Helmet>
-        <title>My To Do List</title>
-      
-        <body className="dark-mode" />
-      </Helmet> */}
-      {/* <ThemeProvider> */}
-      {/* <body className={theme == 'light' ? 'light' : 'dark'}/> */}
-      <div>
+      <div className="color container">
         <Header />
-        <main className="container">
-          <div className="row mt-3">
+        <main className="container color">
+          <div className="row mt-2">
             <WorkExperience />
-            <EducationCard />
-            
+            <div className="col-md-6 color">
+              <EducationCard />
+              <Certification />
+              <TechnicalSkills />
+              <PersonalSkills />
+              <GithubRepository />
+            </div>
           </div>
-          <TechnologySummaryCard />
-          <GithubRepository />
+          {/* <div className="row mt-3">
+             <TechnologySummaryCard /> 
+            <GithubRepository />
+          </div> */}
         </main>
       </div>
-      {/* </ThemeProvider> */}
-      {/* </DarkMode> */}
     </>
   );
 };
