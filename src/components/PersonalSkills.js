@@ -10,6 +10,10 @@ const PersonalSkills = () => {
             <div>
               <h6>Personal Skills : </h6>
               <span class="badge  rounded-pill bg-primary me-1">
+                Growth Mindset
+              </span>
+              <span class="badge  rounded-pill bg-primary me-1">Empathy</span>
+              <span class="badge  rounded-pill bg-primary me-1">
                 Communication
               </span>
               <span class="badge  rounded-pill bg-primary me-1">

@@ -15,13 +15,17 @@ const TechnicalSkills = () => {
                 Java Script
               </span>
               <span class="badge  rounded-pill bg-primary me-1">Node JS</span>
-
               <span class="badge  rounded-pill bg-primary me-1">C#</span>
               <span class="badge  rounded-pill bg-primary me-1">PHP</span>
             </div>
             <div className="mt-3">
               <h6>Libraries / Frameworks: </h6>
-              <span class="badge  rounded-pill bg-primary me-1">React</span>
+              <span class="badge  rounded-pill bg-primary me-1">Next Js</span>
+              <span class="badge  rounded-pill bg-primary me-1">React Js</span>
+              <span class="badge  rounded-pill bg-primary me-1">
+                Tailwind CSS
+              </span>
+              <span class="badge  rounded-pill bg-primary me-1">Fastify</span>
               <span class="badge  rounded-pill bg-primary me-1">
                 Bootstrap5
               </span>
@@ -39,6 +43,7 @@ const TechnicalSkills = () => {
             </div>
             <div className="mt-3">
               <h6>Databases </h6>
+              <span class="badge  rounded-pill bg-primary me-1">MongoDb</span>
               <span class="badge  rounded-pill bg-primary me-1">MySQL</span>
               <span class="badge  rounded-pill bg-primary me-1">T-SQL</span>
               <span class="badge  rounded-pill bg-primary me-1">
@@ -47,6 +52,11 @@ const TechnicalSkills = () => {
               <span class="badge  rounded-pill bg-primary me-1">
                 Microsoft SQL Server
               </span>
+            </div>
+            <div className="mt-3">
+              <h6>Development Tools: </h6>
+              <span class="badge  rounded-pill bg-primary me-1">Docker</span>
+              <span class="badge  rounded-pill bg-primary me-1">OpenAI</span>
             </div>
           </div>
         </div>

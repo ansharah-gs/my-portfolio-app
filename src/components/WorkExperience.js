@@ -1,7 +1,7 @@
 import React from "react";
 export default function WorkExperience() {
   return (
-    <div className="color col-md-6">
+    <div className="color col-12 col-md-6">
       <div className="card">
         <div className="card-body">
           <h2 className="card-title text-uppercase">Work Experience</h2>
@@ -9,10 +9,45 @@ export default function WorkExperience() {
             <li>
               <h6 className="work-experience-item">
                 <div className="title-container">
-                  <div className="title">Internship / Braintoy</div>
+                  <div className="title">
+                    Full Stack Developer (Internship) / ReSkill Calgary
+                  </div>
                   <div className="location"> Calgary, Alberta</div>
                 </div>
-                <span className="ml-10">Oct 2023 to Present </span>
+                <span className="ml-10">Feb 2023 to Present </span>
+              </h6>
+              <ul>
+                <li>
+                  Developed a grant-writing SaaS, that simplifies the grant
+                  application process, encouraging more startups to apply for
+                  grants and resulting in a 15% increase in successful grant
+                  applications.
+                </li>
+                <li>
+                  Integrated the OpenAI Assistant GPT-4 Turbo model, enhancing
+                  application drafting efficiency.
+                </li>
+                <li>
+                  Led the team in developing a SaaS tool that made the
+                  grant-writing process 50% more efficient, enabling startups
+                  and even grant writers to complete their applications in half
+                  the time.
+                </li>
+                <li>
+                  Implemented agile methodologies, improving code quality by 20%
+                  and increasing application performance by 30%.
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h6 className="work-experience-item">
+                <div className="title-container">
+                  <div className="title">
+                    Full Stack Developer (Internship) / Braintoy
+                  </div>
+                  <div className="location"> Calgary, Alberta</div>
+                </div>
+                <span className="ml-10">Oct 2023 to Dec 2023 </span>
               </h6>
               <ul>
                 <li>
@@ -138,7 +173,7 @@ export default function WorkExperience() {
                 <div className="title-container">
                   <div className="title">
                     {" "}
-                    PHP/Laravel Developer / Carbonic IT Solutions
+                    (PHP/Laravel) Full Stack Developer / Carbonic IT Solutions
                   </div>
                   <div className="location">Islamabad, Pakistan</div>
                 </div>

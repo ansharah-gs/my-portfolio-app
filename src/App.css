@@ -1,19 +1,7 @@
-/* .App {
-  text-align: center;
-} */
-
 .color {
   background-color: rgb(181, 232, 239);
 }
 
-/* .dark-mode{
-  background-color: white;
-  color:black
-}
-.light{
-  background-color: black;
-  color:white;
-} */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -42,8 +30,7 @@ div {
   /* align-items: center; */
 }
 
-.title-conatiner {
-  display: flex;
+.title-container {
   grid-gap: 8px;
 }
 
