@@ -14,7 +14,7 @@ export default function WorkExperience() {
                   </div>
                   <div className="location"> Calgary, Alberta</div>
                 </div>
-                <span className="ml-10">Feb 2023 to Present </span>
+                <span className="ml-10">Feb 2024 to Present </span>
               </h6>
               <ul>
                 <li>
