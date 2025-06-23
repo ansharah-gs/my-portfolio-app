@@ -5,7 +5,40 @@ export default function WorkExperience() {
       <div className="card">
         <div className="card-body">
           <h2 className="card-title text-uppercase">Work Experience</h2>
+          <hr />
           <ul className="list-unstyled">
+            <li>
+              <h6 className="work-experience-item">
+                <div className="title-container">
+                  <div className="title">
+                    Headstart School / STEM/AI Instructor
+                  </div>
+                  <div className="location"></div>
+                </div>
+                <span className="ml-10">2025</span>
+              </h6>
+              <ul>
+                <li>
+                  Developed and delivered a hands-on Python curriculum tailored
+                  for middle school students, boosting engagement and
+                  comprehension of core programming concepts.
+                </li>
+                <li>
+                  Facilitated student-led coding projects and guided
+                  collaborative problem-solving activities, improving teamwork
+                  and logical thinking skills.
+                </li>
+                <li>
+                  Assessed student learning through interactive quizzes, code
+                  reviews, and project showcases, resulting in a 30% increase in
+                  overall student performance.
+                </li>
+                <li>
+                  Introduced gamified learning tools and interactive platforms
+                  to make abstract programming concepts more accessible and fun.
+                </li>
+              </ul>
+            </li>
             <li>
               <h6 className="work-experience-item">
                 <div className="title-container">
@@ -14,24 +47,26 @@ export default function WorkExperience() {
                   </div>
                   <div className="location"> Calgary, Alberta</div>
                 </div>
-                <span className="ml-10">Feb 2024 to Present </span>
+                <span className="ml-10">2024</span>
               </h6>
               <ul>
                 <li>
-                  Developed a grant-writing SaaS, that simplifies the grant
-                  application process, encouraging more startups to apply for
-                  grants and resulting in a 15% increase in successful grant
-                  applications.
+                  Developed a grant-writing TypeScript - AI SaaS, that
+                  simplifies the grant application process, encouraging more
+                  startups to apply for grants and resulting in a 15% increase
+                  in successful grant applications.
+                </li>
+                <li>
+                  Directed a 9-member Agile team, driving sprint planning, code
+                  reviews, and feature delivery across front-end and back-end.
                 </li>
                 <li>
                   Integrated the OpenAI Assistant GPT-4 Turbo model, enhancing
                   application drafting efficiency.
                 </li>
                 <li>
-                  Led the team in developing a SaaS tool that made the
-                  grant-writing process 50% more efficient, enabling startups
-                  and even grant writers to complete their applications in half
-                  the time.
+                  Built CI/CD pipelines with integrated Jest tests, improving
+                  front-end reliability and reducing deployment errors by 30%.
                 </li>
                 <li>
                   Implemented agile methodologies, improving code quality by 20%

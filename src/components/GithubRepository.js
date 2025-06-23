@@ -39,6 +39,7 @@ export default function GithubRepository() {
             <h2 className="card-title text-uppercase">
               My GitHub Repositories
             </h2>
+            <hr />
             <ul className="row mt-3 mb-2">
               {githubData.map((repo) => (
                 <li key={repo.id} className="col-md-5">

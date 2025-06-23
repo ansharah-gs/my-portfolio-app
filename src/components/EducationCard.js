@@ -6,6 +6,7 @@ export default function EducationCard() {
         <div className="card">
           <div className="card-body">
             <h2 className="card-title text-uppercase">Education</h2>
+            <hr />
             <ul className="list-unstyled">
               <li className="my-4 d-flex">
                 <div className="flex-grow-1">

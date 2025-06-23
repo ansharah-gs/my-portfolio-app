@@ -7,6 +7,7 @@ const PersonalSkills = () => {
         <div className="card">
           <div className="card-body">
             <h2 className="card-title text-uppercase">Personal Skills</h2>
+            <hr />
             <div>
               <h6>Personal Skills : </h6>
               <span class="badge  rounded-pill bg-primary me-1">

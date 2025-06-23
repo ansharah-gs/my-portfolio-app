@@ -6,6 +6,7 @@ export default function Certification() {
         <div className="card">
           <div className="card-body">
             <h2 className="card-title">CERTIFICATES </h2>
+            <hr />
             <ul className="list-unstyled">
               <li className="my-4 d-flex">
                 <div className="flex-grow-1">
@@ -18,7 +19,7 @@ export default function Certification() {
                         <p>Islamabad, Pakistan</p>
                       </div>
                     </div>
-                    <span className="mr-auto">Oct 2015 to March 2019</span>
+                    <span className="mr-auto">2020</span>
                   </div>
                 </div>
               </li>
@@ -27,17 +28,13 @@ export default function Certification() {
                   <div className="d-flex justify-content-between">
                     <div className="title-container">
                       <div className="title">
-                        <h6 className="fw-bold">Full Stack Developer</h6>
+                        <h6 className="fw-bold">Android Programming</h6>
                       </div>
                       <div className="location">
-                        <p>
-                          Android Programming
-                          <br />
-                          Air University, Islamabad, Pakistan
-                        </p>
+                        <p>Air University, Islamabad, Pakistan</p>
                       </div>
                     </div>
-                    <span className="ml-auto">July 2017 to Aug 2017</span>
+                    <span className="ml-auto">2017</span>
                   </div>
                 </div>
               </li>

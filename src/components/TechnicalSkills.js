@@ -12,7 +12,10 @@ const TechnicalSkills = () => {
               <span class="badge  rounded-pill bg-primary me-1">HTML5</span>
               <span class="badge  rounded-pill bg-primary me-1">CSS3</span>
               <span class="badge  rounded-pill bg-primary me-1">
-                Java Script
+                JavaScript
+              </span>
+              <span class="badge  rounded-pill bg-primary me-1">
+                TypeScript
               </span>
               <span class="badge  rounded-pill bg-primary me-1">Node JS</span>
               <span class="badge  rounded-pill bg-primary me-1">C#</span>
@@ -22,6 +25,7 @@ const TechnicalSkills = () => {
               <h6>Libraries / Frameworks: </h6>
               <span class="badge  rounded-pill bg-primary me-1">Next Js</span>
               <span class="badge  rounded-pill bg-primary me-1">React Js</span>
+              <span class="badge  rounded-pill bg-primary me-1">Redux</span>
               <span class="badge  rounded-pill bg-primary me-1">
                 Tailwind CSS
               </span>
@@ -57,6 +61,19 @@ const TechnicalSkills = () => {
               <h6>Development Tools: </h6>
               <span class="badge  rounded-pill bg-primary me-1">Docker</span>
               <span class="badge  rounded-pill bg-primary me-1">OpenAI</span>
+              <span class="badge  rounded-pill bg-primary me-1">Jest</span>
+              <span class="badge  rounded-pill bg-primary me-1">
+                RESTful APIs
+              </span>
+              <span class="badge  rounded-pill bg-primary me-1">Webpack</span>
+            </div>
+            <div className="mt-3">
+              <h6>• Agile Methodologies: </h6>
+              <span class="badge  rounded-pill bg-primary me-1">Scrum</span>
+              <span class="badge  rounded-pill bg-primary me-1">Kanban</span>
+              <span class="badge  rounded-pill bg-primary me-1">
+                Agile Project Management
+              </span>
             </div>
           </div>
         </div>
