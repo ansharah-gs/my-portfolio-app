@@ -18,7 +18,6 @@ export default function Header() {
   };
   // setDarkMode();
   const ToggleTheme = (e) => {
-    // debugger;
     e.target.checked ? setDarkMode() : setLightMode();
   };
   return (
@@ -37,7 +36,7 @@ export default function Header() {
               />
             </div> */}
             <div className="col text-center text-lg-center">
-              <h1 className="text-uppercase fw-bold">Ansharah Qasim</h1>
+              <h1 className="text-uppercase fw-bold">Ansharah Asif</h1>
               <div className="dark_mode">
                 <input
                   className="dark_mode_input"
@@ -63,7 +62,7 @@ export default function Header() {
                 </li>
                 <li className="list-inline-item my-2 pe-2">
                   <a
-                    href="https://www.linkedin.com/in/ansharah-qasim-software-developer"
+                    href="https://www.linkedin.com/in/ansharah/"
                     className="fs-5 text-decoration-none"
                     target="_blank"
                     rel="noreferrer"
